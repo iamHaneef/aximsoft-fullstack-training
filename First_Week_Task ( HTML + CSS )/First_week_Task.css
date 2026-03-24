@@ -312,17 +312,21 @@ body {
         grid-row: auto;
         margin: 0;
     }
+
     .one {
         order: 7;
         height: 25vh;
 
     }
+
     .one img {
         width: 140px;
     }
+
     .one p {
         max-width: 230px;
     }
+
     .two {
         order: 1;
         height: 39vh;
@@ -330,54 +334,66 @@ body {
         text-align: center;
         align-items: center;
     }
+
     .two p.first {
         font-size: 48px;
         font-weight: 500;
         line-height: 50px;
         max-width: 280px;
     }
+
     .three {
         order: 4;
         gap: 10px;
     }
+
     .three img {
         width: 350px;
         justify-content: space-between;
     }
+
     .three p.first {
         text-align: center;
     }
+
     .three p.second {
         margin-left: 56px;
         text-align: center;
         font-size: 17px;
         max-width: 250px;
     }
+
     .four {
         order: 8;
     }
+
     .four p {
         font-size: 22px;
         max-width: 190px;
         line-height: 22px;
     }
+
     .four img {
         width: 160px;
         margin-top: 10px;
     }
+
     .five {
         order: 2;
         justify-content: space-between;
     }
+
     .five img {
         width: 350px;
     }
+
     .five p {
         font-size: 30px;
         line-height: 29px;
         max-width: 370px;
         margin-top: 15px;
     }
+
     .six {
         order: 3;
         margin: 0;
@@ -385,29 +401,36 @@ body {
         grid-auto-rows: auto;
         height: 23vh;
     }
+
     .six p {
         font-size: 30px;
     }
+
     .six img {
         width: 180px;
     }
+
     .seven {
         order: 6;
     }
+
     .seven p {
         max-width: 130px;
         justify-content: space-between;
         gap: 20px;
         margin: 5px;
     }
+
     .eight {
         order: 5;
         display: flex;
         flex-direction: column;
     }
+
     .eight img {
         width: 180px;
     }
+
     .eight p {
         max-width: 150px;
     }

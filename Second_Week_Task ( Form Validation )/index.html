@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form validation</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <form id="form" novalidate>
+            <div class="form-set">
+                <h1>Contact Us</h1>
+            </div>
+            <!--Row for FirstName , lastName column-->
+            <div class="row">
+                <div class="form-set">
+                    <label for="firstName" class="firstname">First Name *</label>
+                    <input type="text" id="firstname" class="firstname">
+                    <small class="error"></small>
+                </div>
+                <div class="form-set">
+                    <label for="lastName" class="lastName">Last Name *</label>
+                    <input type="text" id="lastname" class="lastName">
+                    <small class="error"></small>
+                </div>
+            </div>
+
+            <!--Email-->
+            <div class="form-set">
+                <label for="email" class="email">Email Address *</label>
+                <input type="email" id="email" class="email">
+                <small class="error"></small>
+            </div>
+
+            <!--Query Type-->
+            <div class="form-set">
+                <label>Query Type *</label>
+                <div class="radioboxs">
+                    <label class="radio" for="general">
+                        <input type="radio" id="general" name="same" class="general">
+                        <span class="generalspan">General Enquiry</span>
+                    </label>
+
+                    <label class="radio" for="support">
+                        <input type="radio" id="support" name="same" class="general">
+                        <span class="generalspan">Support Request</span>
+                    </label>
+                </div>
+                <small class="error"></small>
+            </div>
+
+            <!--Message-->
+            <div class="form-set">
+                <label for="Message" class="Message">Message *</label>
+                <textarea id="message" class="Message"></textarea>
+                <small class="error"></small>
+            </div>
+
+            <div class="checks">
+                <!--CheckBox-->
+                <div class="checkbox">
+                    <input type="checkbox" id="checkbox" class="general">
+                    <label for="checkbox">I consent to being contacted by the team</label>
+                </div>
+
+            </div>
+            <small id="checkbox-error" class="error"></small>
+
+            <!--Submit Buttons-->
+            <div class="form-set">
+                <button class="button">Submit</button>
+            </div>
+
+        </form>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
