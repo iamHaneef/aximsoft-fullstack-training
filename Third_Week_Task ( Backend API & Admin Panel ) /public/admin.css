@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    max-width: 600px;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    background-image: url("./Results-assets/elevated-view-laptop-stationeries-blue-backdrop.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+h2 {
+    font-size: 40px;
+    font-weight: 500;
+    margin-bottom: 30px;
+    color: rgb(7, 34, 96);
+    margin-left: 10px;
+    position: relative;
+    left: 10px;
+}
+
+label {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+    font-size: 25px;
+    font-weight: 500;
+    color: #1b032f;
+
+}
+
+input {
+    padding: 10px 20px;  
+    border-radius: 5px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+input::placeholder {
+  font-weight: bold;
+  opacity: 0.5;
+  color: rgb(255, 255, 255);
+}
+
+button {
+    padding: 10px 0px;
+    font-size: 15px;
+    font-weight: 600;
+    max-width: 120px;
+    position: relative;
+    left: 73px;
+    border-radius: 15px;
+    margin-top: 20px;
+    background-color: rgb(20, 9, 60);
+    color: white;
+}
+
+button:hover {
+    background-color: rgb(0, 0, 0);
+    color:white;
+    cursor: pointer;
+}
+
+form {
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    background-color: rgb(255, 255, 255);
+    padding: 55px 75px;
+    
+    border-radius: 15px;
+}
