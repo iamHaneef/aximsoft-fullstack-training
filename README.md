@@ -1,6 +1,15 @@
 # Aximsoft-Weekend-Tasks
 This Repo represents the Every Weekend Task of Aximsoft Company !!
 
+## 🚀 Projects Overview
+
+| # | Project | Description |
+|--|--------|------------|
+| 1 | Frontend Layout | HTML, CSS Grid & Flexbox |
+| 2 | Form Validation | Client-side validation using JavaScript |
+| 3 | Backend API & Admin Panel | Node.js API with JSON storage |
+| 4 | Backend Service | PostgreSQL, Stored Procedures & Auth |
+
 ---
 
 ❤️ About the Author
