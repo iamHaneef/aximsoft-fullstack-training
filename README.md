@@ -1,27 +1,28 @@
-# Aximsoft-Weekend-Tasks
-This Repo represents the Every Weekend Task of Aximsoft Company !!
+# Aximsoft Fullstack Tasks
 
-## 🚀 Projects Overview
-
-| Week No | Project | Description |
-|--|--------|------------|
-| 1 | Frontend Layout | HTML, CSS Grid & Flexbox |
-| 2 | Form Validation | Client-side validation using JavaScript |
-| 3 | Backend API & Admin Panel | Node.js API with JSON storage |
-| 4 | Backend Service | PostgreSQL, Stored Procedures & Auth |
+This repository contains a collection of structured full-stack development tasks assigned during training at Aximsoft.  
+Each task focuses on building practical skills across frontend, backend, and database development.
 
 ---
 
-❤️ About the Author
+## 🚀 Projects Overview
 
-Handled By :
+| Week | Project | Description |
+|------|--------|------------|
+| 01 | Frontend Layout | Responsive layout using HTML, CSS Grid, and Flexbox |
+| 02 | Form Validation | Client-side validation using JavaScript |
+| 03 | Backend API & Admin Panel | REST API using Node.js with JSON-based data handling |
+| 04 | Backend Service | PostgreSQL integration, stored procedures, and authentication |
 
-🪶 Developer
+---
 
-Muhamad Haneef J
-Student | Web Developer | Full Stack Learner
-📍 Government College of Technology, Coimbatore.
+## 📂 Repository Structure
 
-<img width="800" height="200" alt="J Muhamad haneef" src="https://github.com/user-attachments/assets/146a1b4a-0a04-4aec-aa4f-7b7901f7ff00" />
+Each folder represents a weekly task and contains the implementation for that specific module.
 
-
+```bash
+aximsoft-fullstack-tasks/
+├── 01 - Frontend Layout
+├── 02 - Form Validation
+├── 03 - Backend API & Admin Panel
+├── 04 - Backend Service
