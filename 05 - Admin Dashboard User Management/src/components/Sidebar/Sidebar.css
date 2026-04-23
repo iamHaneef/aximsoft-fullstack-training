@@ -1,0 +1,40 @@
+.sidecontainer {
+    width: 30%;
+    background: black;
+    color: white;
+    padding: 20px;
+    border: none;
+}
+
+p {
+    font-family: sans-serif;
+    font-size: 13px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    background-color: rgb(50, 50, 50);
+    padding: 2px 5px;
+    text-align: start;
+}
+
+h2 {
+    font-size: 18px;
+    font-weight: 900;
+    margin-top: 7px;
+    margin-left: 10px;
+}
+
+.head {
+    display: flex;
+    flex-direction: row;
+    
+}
+
+img {
+    width: 30px;
+    height: 30px;
+}
+
+.elements {
+    margin-top: 30px;
+}

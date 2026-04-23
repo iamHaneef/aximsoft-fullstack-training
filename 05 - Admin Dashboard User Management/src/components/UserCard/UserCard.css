@@ -1,0 +1,60 @@
+.card {
+    background: rgb(187, 187, 187);
+    border-radius: 10px;
+    border: none;
+    text-align: center;
+}
+
+.name {
+    font-size: 16px;
+    font-weight: 600;
+    color: #333;
+    /* darker */
+    margin-top: 15px;
+}
+
+.email {
+    font-size: 13px;
+    text-decoration: underline;
+    color: #000000;
+    /* lighter */
+    background: rgb(187, 187, 187);
+    text-align: center;
+    position: relative;
+    bottom: 12px;
+}
+
+.img {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    position: relative;
+    top: 20px;
+}
+
+/* Buttons */
+.actions {
+    position: relative;
+    bottom: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+
+}
+
+.btn {
+    border-radius: 10px;
+    font-size: 12px;
+    padding: 5px 10px;
+    border: none;
+}
+
+.btn.light {
+    background: #f2f2f2;
+    color: #000000;
+}
+
+.btn.dark {
+    background: #000000;
+    color: white;
+}

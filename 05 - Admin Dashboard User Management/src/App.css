@@ -1,0 +1,12 @@
+*{
+  border: none;
+}
+
+body {
+  margin: 0;
+  background: #f4f4f4;  /* lighter like original */
+  font-family: Arial, sans-serif;
+  width: 100%;
+  border: none;
+
+}

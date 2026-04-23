@@ -1,0 +1,33 @@
+.usercontainer {
+  padding: 20px;
+  width: 80%;
+  margin-right: 10px;
+
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.user{
+    color: black;
+}
+
+.add-btn {
+  background: black;
+  color: white;
+  padding: 8px 12px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.grid {
+  margin-top: 10px;
+  display: grid;
+  grid-template-columns: repeat(3, 280px);
+  
+  gap: 15px;
+}
