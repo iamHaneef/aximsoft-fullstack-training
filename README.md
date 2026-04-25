@@ -1,13 +1,15 @@
-# Aximsoft Fullstack Tasks
+# Aximsoft Fullstack Training
 
-This repository contains structured full-stack development tasks completed during training at Aximsoft.  
-Each task focuses on practical implementation across frontend, backend, and database systems.
+## 📌 Overview
+
+A collection of structured full-stack development tasks completed during training at Aximsoft.  
+Each module focuses on practical implementation across frontend, backend, and database systems.
 
 ---
 
-## 🚀 Projects Overview
+## ⚡ Modules Overview
 
-| Week | Project | Description |
+| Week | Module | Description |
 |------|--------|------------|
 | 01 | Frontend Layout | Responsive layout using HTML, CSS Grid, and Flexbox |
 | 02 | Form Validation | Client-side validation using JavaScript |
@@ -17,14 +19,31 @@ Each task focuses on practical implementation across frontend, backend, and data
 
 ---
 
+## 🛠️ Tech Stack
+
+- HTML  
+- CSS  
+- JavaScript  
+- React.js  
+- Node.js  
+- Express.js  
+- PostgreSQL  
+
+---
+
 ## 📂 Repository Structure
 
-Each folder represents a task module with its own implementation.
-
 ```bash
-aximsoft-fullstack-tasks/
+aximsoft-fullstack-training/
 ├── 01 - Frontend Layout
 ├── 02 - Form Validation
 ├── 03 - Backend API & Admin Panel
 ├── 04 - Backend Service
 ├── 05 - Admin Dashboard User Management
+```
+
+---
+
+## 🚀 How to Run
+
+> Navigate into each module and run based on the technology used (e.g., open HTML files in a browser or use `node`/`npm` for backend modules).
