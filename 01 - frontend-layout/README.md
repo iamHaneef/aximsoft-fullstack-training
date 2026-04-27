@@ -1,6 +1,18 @@
-# Aximsoft-Weekend-Tasks
+# Frontend Layout (HTML, CSS Grid & Flexbox)
 
+A responsive UI layout built using modern CSS techniques including Flexbox and Grid.
 
-This Week Module taught me to handle the css styling in a proper programmer way using FlexBox + Grid Working Principle !!
+---
 
-![Task Screenshot](./assets/images/Screenshot%20from%202026-03-15%2000-01-33.png)
+## 🚀 Features
+
+- Responsive page layout  
+- Flexbox-based alignment  
+- Grid-based section structuring  
+- Clean and reusable styling  
+
+---
+
+## 📸 Preview
+
+![UI Screenshot](./assets/images/Screenshot%20from%202026-03-15%2000-01-33.png)

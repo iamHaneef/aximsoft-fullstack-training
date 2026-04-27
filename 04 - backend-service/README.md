@@ -1,21 +1,26 @@
-# Aximsoft-Weekend-Tasks
+# Backend Service (PostgreSQL & Authentication)
 
+A backend service implementation with database integration, stored procedures, and admin authentication.
 
-This Week Module taught me to handle the Backend Service with PostgreSQL, Stored Procedures & Admin Auth !!
+---
 
-## ADMIN AUTHENTICATION
+## 🚀 Features
 
-![Task Screenshot](./assests/Screenshot%20from%202026-04-07%2017-56-52.png)
+- PostgreSQL database integration  
+- Stored procedures for data operations  
+- Admin authentication system  
+- CRUD operations (Create, Read, Delete)  
 
-## USER -> CREATE , READ , DELETE
+---
 
-![Task Screenshot](./assests/Screenshot%20from%202026-04-07%2017-57-48.png)
+## 🔐 Admin Authentication
 
-![Task Screenshot](./assests/Screenshot%20from%202026-04-07%2017-57-57.png)
+![Auth](./assests/Screenshot%20from%202026-04-07%2017-56-52.png)
 
-![Task Screenshot](./assests/Screenshot%20from%202026-04-07%2017-58-08.png)
+---
 
+## 📊 Data Operations
 
-
-
-
+![CRUD](./assests/Screenshot%20from%202026-04-07%2017-57-48.png)
+![CRUD](./assests/Screenshot%20from%202026-04-07%2017-57-57.png)
+![CRUD](./assests/Screenshot%20from%202026-04-07%2017-58-08.png)

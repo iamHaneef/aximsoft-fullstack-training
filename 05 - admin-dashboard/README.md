@@ -1,8 +1,18 @@
-# Aximsoft-Weekend-Tasks
+# Admin Dashboard (React)
 
+A React-based admin dashboard for managing data with component-based architecture and interactive UI.
 
-This Week Module taught me to handle the css styling in a proper programmer way using FlexBox + Grid Working Principle !!
+---
 
-In addition to I learned How to handle the JavaScript Functionality with connect of HTML + CSS !!
+## 🚀 Features
 
-![Task Screenshot](./src/assets/Screenshot%20from%202026-04-27%2022-16-41.png)
+- Component-based UI design  
+- State management using React  
+- Dynamic data rendering  
+- Structured dashboard layout  
+
+---
+
+## 📸 Preview
+
+![Dashboard](./src/assets/Screenshot%20from%202026-04-27%2022-16-41.png)

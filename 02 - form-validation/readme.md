@@ -1,8 +1,18 @@
-# Aximsoft-Weekend-Tasks
+# Form Validation (JavaScript)
 
+A client-side form validation system integrating HTML, CSS, and JavaScript for interactive user input handling.
 
-This Week Module taught me to handle the css styling in a proper programmer way using FlexBox + Grid Working Principle !!
+---
 
-In addition to I learned How to handle the JavaScript Functionality with connect of HTML + CSS !!
+## 🚀 Features
 
-![Task Screenshot](./assets/Screenshot%20from%202026-03-24%2012-29-07.png)
+- Input validation using JavaScript  
+- Real-time user feedback  
+- DOM manipulation  
+- Clean UI with validation states  
+
+---
+
+## 📸 Preview
+
+![UI Screenshot](./assets/Screenshot%20from%202026-03-24%2012-29-07.png)
