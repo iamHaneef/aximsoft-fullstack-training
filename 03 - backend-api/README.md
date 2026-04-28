@@ -15,6 +15,6 @@ A full-stack implementation connecting frontend UI with backend APIs to store an
 
 ## 📸 Preview
 
-![Preview](./public/Results-assets/Screenshot%20from%202026-04-06%2023-08-37.png)
-![Preview](./public/Results-assets/Screenshot%20from%202026-04-06%2023-11-28.png)
-![Preview](./public/Results-assets/Screenshot%20from%202026-04-06%2023-10-29.png)
+![Preview](./public/Results-assets/Screenshot from 2026-03-24 12-19-57.png)
+![Preview](./public/Results-assets/Screenshot from 2026-03-24 12-20-19.png)
+![Preview](./public/Results-assets/Screenshot from 2026-03-24 12-21-35.png)
